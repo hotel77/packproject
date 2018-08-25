@@ -25,6 +25,7 @@ public class PackageWebProject {
             String deployDir = null;
             String timeStr = null;
             String targetName = null;
+            String u = "";
 
             int i = 0;
             while (i < args.length) {
