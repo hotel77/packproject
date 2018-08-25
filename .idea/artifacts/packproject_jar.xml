@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="packproject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/packproject_jar</output-path>
+    <root id="archive" name="packproject.jar">
+      <element id="module-output" name="packproject" />
+      <element id="extracted-dir" path="/data/maven/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/data/maven/repository/commons-io/commons-io/2.5/commons-io-2.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
